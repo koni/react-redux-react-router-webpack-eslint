@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+.eslintcache
+*-e
+npm-debug.log
+node_modules/
